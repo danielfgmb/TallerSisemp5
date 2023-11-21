@@ -1,7 +1,3 @@
-## Screenshot de Aplicación
-
-![Aplicacion](image.png)
-
 ## Application Details
 |               |
 | ------------- |
